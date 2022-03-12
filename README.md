@@ -8,7 +8,7 @@
 
 <img align="right" alt="github cat gif" width="250" src="https://github.com/bdougie/bdougie/blob/main/monadance.gif?raw=true">
 
-- 🔭 I’m currently working on **ChatApp with python** and **Archive website**.
+- 🔭 I’m currently working on a **ChatApp with python** and an **Archive website**.
 
 - 🌱 I’m currently learning **Js** and **Cassandra db**.
 
