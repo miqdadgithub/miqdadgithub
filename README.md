@@ -6,9 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miqdadgithub&label=Profile%20views&color=0e75b6&style=flat" alt="miqdadgithub" /> </p>
 
+<img align="right" alt="github cat gif" width="250" src="https://github.com/bdougie/bdougie/blob/main/monadance.gif?raw=true">
+
 - 🔭 I’m currently working on **ChatApp with python** and **Archive website**.
 
 - 🌱 I’m currently learning **Js** and **Cassandra db**.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
