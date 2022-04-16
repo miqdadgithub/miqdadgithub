@@ -8,9 +8,9 @@
 
 <img align="right" alt="github cat gif" width="250" src="https://github.com/bdougie/bdougie/blob/main/monadance.gif?raw=true">
 
-- 🔭 I’m currently working on  **ChatApp with python** and  **Archive website**.
+- 🔭 I’m currently working on  An **Archive website**.
 
-- 🌱 I’m currently learning **Js** and **Cassandra db**.
+- 🌱 I’m currently learning **Js**.
 
 
 <h3 align="left">Connect with me:</h3>
