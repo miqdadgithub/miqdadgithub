@@ -38,9 +38,9 @@ I'm a physics major, deeply loving everything math related. I use this site to p
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="[./img/csharp-original.svg](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)" width="48" height="48" alt="C#" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="48" height="48" alt="C++" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>C++&nbsp;
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
