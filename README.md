@@ -8,7 +8,10 @@ I'm a physics major, deeply loving everything math related. I use this site to p
 
 
 
-<h3 align="left">Let Conect!</h3>
+<h3 align="left">Let Conect
+<a href=”#"><img align=”left” src=”https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/share-2.png" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+
+</h3>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
