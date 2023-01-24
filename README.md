@@ -67,6 +67,7 @@ I'm a physics major, deeply loving everything math related. I use this site to p
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>C++
+      </td>
   </tr>
 </table>
 
