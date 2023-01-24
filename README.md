@@ -8,7 +8,7 @@ I'm a physics major, deeply loving everything math related. I use this site to p
 
 
 
-<h3 align="left">Let Conect <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/share-2.png" height="25"/></h3>
+<h3 align="left">We can meet here <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/share-2.png" height="15"/></h3>
 
 <br>
 
