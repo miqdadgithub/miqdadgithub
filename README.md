@@ -14,7 +14,7 @@ I'm a physics major, deeply loving everything math related. I use this site to p
 - 🔭 &nbsp;I’m currently working on **Quantum potentials project**.
 - 🌱 &nbsp;I’m currently learning Javascript.
 - 💬 &nbsp;Ask me about stuff related to Pyhton/C++/HTML/CSS/Bootstrap.
-- ❤️ &nbsp; I love Physics and mathematics so bad. 
+- ❤️ &nbsp; I love Physics and mathematics, just learning about the big world we live in. 
 - ⚡ &nbsp;Fun fact: The crew of Apollo 11 are Neil Armstrong, Michael Collins and Edwin "Buzz" Aldrin.
 
 <p><img  alain="right" src="https://visitor-badge.glitch.me/badge?page_id=miqdadgithub.miqdadgithub" alt="visitors"></p>
@@ -45,19 +45,20 @@ I'm a physics major, deeply loving everything math related. I use this site to p
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="css3" width="48" height="48" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48" />
       </a>
       <br>Jsonnet
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="48" height="48" />
       </a>
       <br>TypeScript
     </td>
