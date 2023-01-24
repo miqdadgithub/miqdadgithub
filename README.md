@@ -90,5 +90,5 @@ I'm a physics major, deeply loving everything math related. I use this site to p
 <!-- links -->
 
 [84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[issues page]: https://github.com/miqdadgithub/miqdadgithub/issues "MacroPower/issues"
+
