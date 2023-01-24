@@ -7,8 +7,8 @@ I'm a physics major, deeply loving everything math related. I use this site to p
 <hr>
 
 
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
+
+<h3 align="left">Let Conect!</h3>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
