@@ -38,7 +38,7 @@ I'm a physics major, deeply loving everything math related. I use this site to p
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c.eps" width="48" height="48" alt="C++" />
+        <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/c-plus-plus-logo.png" width="48" height="48" alt="C++" />
       </a>
       <br>C++&nbsp;
     </td>
