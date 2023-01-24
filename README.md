@@ -11,19 +11,16 @@ I'm a physics major, deeply loving everything math related. I use this site to p
 <h3 align="left">Some Stats <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/area-chart.png" height="20"/></h3>
 
 
-![Miqdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=miqdadgithub&theme=onedark&show_icons=true)
-<p><img  alain="right" src="https://visitor-badge.glitch.me/badge?page_id=miqdadgithub.miqdadgithub" alt="visitors"></p>
-
-
 - 🔭 &nbsp;I’m currently working on **Quantum potentials project**.
 - 🌱 &nbsp;I’m currently learning Javascript.
 - 💬 &nbsp;Ask me about stuff related to Pyhton/C++/HTML/CSS/Bootstrap.
 - ⚡ &nbsp;Fun fact: The crew of Apollo 11 are Neil Armstrong, Michael Collins and Edwin "Buzz" Aldrin.
 
-<br>
+<p><img  alain="right" src="https://visitor-badge.glitch.me/badge?page_id=miqdadgithub.miqdadgithub" alt="visitors"></p>
 
+![Miqdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=miqdadgithub&theme=onedark&show_icons=true)
 
-
+<hr>
 <h3 align="left">We can meet here <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/share-2.png" height="20"/></h3>
 
 <p align="left">
