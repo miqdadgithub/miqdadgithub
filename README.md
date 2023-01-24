@@ -8,7 +8,7 @@ I'm a physics major, deeply loving everything math related. I use this site to p
 
 
 
-<h3 align="left">Some Stats <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/area-chart.png" height="20"/></h3>
+<h3 align="left">Some Info and Stats <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/area-chart.png" height="20"/></h3>
 
 
 - 🔭 &nbsp;I’m currently working on **Quantum potentials project**.
