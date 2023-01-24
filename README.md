@@ -8,7 +8,11 @@ I'm a physics major, deeply loving everything math related. I use this site to p
 
 
 
-<h3 align="left">Let Conect! </h3>
+<h3 align="left">Let Conect!</h3>
+
+
+<hr>
+<h3 align="left">Some Stats</h3>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
