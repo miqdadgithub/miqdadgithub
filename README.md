@@ -10,8 +10,8 @@ I'm a physics major, deeply loving everything math related. I use this site to p
 
 <h3 align="left">Some Stats <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/area-chart.png" height="20"/></h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=miqdadgithub&show_icons=true&count_private=true" alt="spiderpig86" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=miqdadgithub&show_icons=true&count_private=true" alt="miqdad_stats" />
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=miqdadgithub.miqdadgithub" alt="visitors"></p>
 
 
 <br>
