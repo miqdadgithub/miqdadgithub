@@ -14,6 +14,7 @@ I'm a physics major, deeply loving everything math related. I use this site to p
 - 🔭 &nbsp;I’m currently working on **Quantum potentials project**.
 - 🌱 &nbsp;I’m currently learning Javascript.
 - 💬 &nbsp;Ask me about stuff related to Pyhton/C++/HTML/CSS/Bootstrap.
+- ❤️ &nbsp; I love Physics and mathematics so bad. 
 - ⚡ &nbsp;Fun fact: The crew of Apollo 11 are Neil Armstrong, Michael Collins and Edwin "Buzz" Aldrin.
 
 <p><img  alain="right" src="https://visitor-badge.glitch.me/badge?page_id=miqdadgithub.miqdadgithub" alt="visitors"></p>
