@@ -8,50 +8,19 @@ I'm a physics major, deeply loving everything math related. I use this site to p
 
 
 
-<h3 align="left">We can meet here <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/share-2.png" height="20"/></h3>
-
-
-<p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/twitter.png" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://facebook.com/" target="blank"><img align="center" src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/facebook-new--v2.png" alt="gautamkrishnar" height="30" width="40" /></a>
+<h3 align="left">Some Stats <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/area-chart.png" height="20"/></h3>
 
 <br>
 
-<h3 align="left">Some Stats</h3>
+
+
+<h3 align="left">We can meet here <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/share-2.png" height="20"/></h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
-  </a>
-  <a href="https://macropower.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://reddit.com/u/macropower">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-</p>
-
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
-
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-
+<a href="https://twitter.com/miqdadgreeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17983501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
