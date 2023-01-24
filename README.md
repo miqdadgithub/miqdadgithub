@@ -2,7 +2,7 @@
 
 ### Hey!
 
-I'm a physics major, deeply loving everything math related. I use this site to post the projects and technologies I am learning. **Lets make it happen**
+I'm a physics major, deeply loving everything math related. I use this site to post my projects and the technologies I am learning. **Lets make it happen**
 .
 <hr>
 
@@ -11,9 +11,9 @@ I'm a physics major, deeply loving everything math related. I use this site to p
 <h3 align="left">Some Info and Stats <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/area-chart.png" height="20"/></h3>
 
 
-- 🔭 &nbsp;I’m currently working on **Quantum potentials project**.
+- 🔭 &nbsp;I’m currently working on **Quantum potentials simulation**.
 - 🌱 &nbsp;I’m currently learning Javascript.
-- 💬 &nbsp;Ask me about stuff related to Pyhton/C++/HTML/CSS/Bootstrap.
+- 💬 &nbsp;Ask me about stuff related to Pyhton/C++/HTML/CSS/Bootstrap/Latex.
 - ❤️ &nbsp; I love Physics and mathematics, just learning about the big world we live in. 
 - ⚡ &nbsp;Fun fact: The crew of Apollo 11 are Neil Armstrong, Michael Collins and Edwin "Buzz" Aldrin.
 
@@ -34,41 +34,117 @@ I'm a physics major, deeply loving everything math related. I use this site to p
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
-
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python"  height="48" alt="Python" />
+      <a href="#macropower-tech">
+        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#&nbsp;(Core)
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="css3" width="48" height="48" />
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>HTML
+      <br>Go
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48" />
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br>CSS
+      <br>Jsonnet
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="48" height="48" />
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
-      <br>C++
-      </td>
+      <br>Sass
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+      </a>
+      <br>RHEL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+      </a>
+      <br>Thanos
+    </td>
   </tr>
 </table>
-
-
