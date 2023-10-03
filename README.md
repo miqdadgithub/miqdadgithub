@@ -1,115 +1,32 @@
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-### Hey!
-
-I'm a physics major, deeply loving everything math related. I use this site to post my projects and the technologies I am learning. **Lets make it happen**
-.
-<hr>
+# 💫 About Me:
+🔭 I’m currently working on NBody Simulation.<br>👯 I’m looking to collaborate on ML Projects.<br>🌱 I’m currently learning The Essences of Data Science. <br>💬 Ask me about Everything Python-related.<br>⚡ Fun fact: The Astronauts on Apollo 11 were<br> - Neil Armstrong - Mission Commander.<br> - Edwin 'Buzz' Aldrin - lunar module pilot.<br> - Michael Collins - command module pilot.<br>
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/isaac.migdad.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/almiqdad.yahya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/miqdadgreeb) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theoryofeverything2.0) 
 
-<h3 align="left">Some Info and Stats <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/area-chart.png" height="20"/></h3>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=miqdadgithub&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=miqdadgithub&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miqdadgithub&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=miqdadgithub&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 &nbsp;I’m currently working on **Quantum potentials simulation**.
-- 🌱 &nbsp;I’m currently learning Javascript.
-- 💬 &nbsp;Ask me about stuff related to Pyhton/C++/HTML/CSS/Bootstrap/Latex.
-- ❤️ &nbsp; I love Physics and mathematics, just learning about the big world we live in. 
-- ⚡ &nbsp;Fun fact: The crew of Apollo 11 are Neil Armstrong, Michael Collins and Edwin "Buzz" Aldrin.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<p><img  alain="right" src="https://visitor-badge.glitch.me/badge?page_id=miqdadgithub.miqdadgithub" alt="visitors"></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=miqdadgithub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-![Miqdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=miqdadgithub&theme=onedark&show_icons=true)
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<hr>
-<h3 align="left">We can meet here <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/share-2.png" height="20"/></h3>
+---
+[![](https://visitcount.itsvg.in/api?id=miqdadgithub&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">
-<a href="https://twitter.com/miqdadgreeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17983501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-
-<br>
-
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/miqdadgithub/miqdadgithub/blob/main/imgs/c-plus-plus-logo.png" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++&nbsp;
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Latex
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Jupyter
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Lab View
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Matlab
-    </td>
-    
-  </tr>
-</table>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
