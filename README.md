@@ -1,7 +1,7 @@
 <img align="left" src="https://orhun.dev/img/crow.png">
 
 # 💫 About Me:
-🔭 I’m currently working on NBody Simulation.<br>👯 I’m looking to collaborate on ML Projects.<br>🌱 I’m currently learning The Essences of Data Science. <br>💬 Ask me about Everything Python-related.<br>⚡ Fun fact: The Astronauts on Apollo 11 were<br> * Neil Armstrong - Mission Commander.<br> * Edwin 'Buzz' Aldrin - lunar module pilot.<br> * Michael Collins - command module pilot.<br>
+🔭 I’m currently working on NBody Simulation.<br>👯 I’m looking to collaborate on ML Projects.<br>🌱 I’m currently learning The Essences of Data Science. <br>💬 Ask me about Everything Python-related.<br>⚡ Fun fact: The Astronauts on Apollo 11 were<br>  1 - Neil Armstrong - Mission Commander.<br>  2 - Edwin 'Buzz' Aldrin - lunar module pilot.<br>  3 - Michael Collins - command module pilot.<br>
 
 
 ## 🌐 Socials:
