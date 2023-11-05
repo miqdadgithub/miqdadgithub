@@ -18,7 +18,7 @@
 <!--![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)--> 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=miqdadgithub&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=miqdadgithub&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=miqdadgithub&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miqdadgithub&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
