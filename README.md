@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on NBody Simulation.<br> <br>
+🔭 I’m currently working on NBody Simulation.
 <!--💬 Ask me about Everything Python-related.<br>⚡ Fun fact: The Astronauts on Apollo 11 were 
 1.  Neil Armstrong - Mission Commander.  
 2.  Edwin 'Buzz' Aldrin - lunar module pilot.  
