@@ -1,4 +1,4 @@
-
+<img align="left" src="https://orhun.dev/img/crow.png"> <br><br>
 
 
 # 💫 About Me:
@@ -8,7 +8,7 @@
 2.  Edwin 'Buzz' Aldrin - lunar module pilot.  
 3.  Michael Collins - command module pilot.
 -->
-<img align="left" src="https://orhun.dev/img/crow.png">
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/isaac.migdad.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/almiqdad.yahya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/miqdadgreeb) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theoryofeverything2.0) 
