@@ -4,6 +4,11 @@
 
 I am a passionate developer and researcher with a strong background in scientific computing, data analysis, and software engineering. Currently, I am working on an **N-Body Simulation** project, applying advanced numerical methods and Python to model complex physical systems.
 
+## 🧠 Upcoming Projects
+
+- **Neutrino Detector Prototype**: Designing and building a basic physical neutrino detector to explore detection principles and potentially test it in a low-background environment.  
+- **Amplitude Calculator**: Developing a Python tool to compute simple quantum field theory amplitudes, starting with scalar interactions and aiming to eventually include spinor and gauge fields.
+
 ## 🚀 Projects
 
 - **N-Body Simulation**: High-performance simulation of gravitational systems using Python, NumPy, and C++. Visualized results with Matplotlib and interactive dashboards.
