@@ -2,7 +2,7 @@
 
 # 👋 About Me
 
-I am a passionate developer and researcher with a strong background in scientific computing, data analysis, and software engineering. Currently, I am working on an **N-Body Simulation** project, applying advanced numerical methods and Python/C++ to model complex physical systems.
+I am a passionate developer and researcher with a strong background in scientific computing, data analysis, and software engineering. Currently, I am working on an **N-Body Simulation** project, applying advanced numerical methods and Python to model complex physical systems.
 
 ## 🚀 Projects
 
