@@ -9,11 +9,11 @@ I am a passionate developer and researcher with a strong background in scientifi
 - **Neutrino Detector Prototype**: Designing and building a basic physical neutrino detector to explore detection principles and potentially test it in a low-background environment.  
 - **Amplitude Calculator**: Developing a Python tool to compute simple quantum field theory amplitudes, starting with scalar interactions and aiming to eventually include spinor and gauge fields.
 
-## 🚀 Projects
+## 🚀 Top Projects
 
+- **Yukawa Force Simulation**: Developed a Python-based simulation of the strong nuclear force using the Yukawa potential. Utilized Pygame for interactive visualization to demonstrate confinement and force behavior at varying distances.
 - **N-Body Simulation**: High-performance simulation of gravitational systems using Python, NumPy, and C++. Visualized results with Matplotlib and interactive dashboards.
 - **Personal Portfolio Website**: Built with HTML, CSS, JavaScript, and GitHub Pages to showcase my work and research.
-- **Yukawa Force Simulation**: Developed a Python-based simulation of the strong nuclear force using the Yukawa potential. Utilized Pygame for interactive visualization to demonstrate confinement and force behavior at varying distances.
 
 ## 🛠️ Skills
 
