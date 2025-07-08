@@ -1,9 +1,10 @@
-<p align="center">
-  <img src="https://orhun.dev/img/crow.png" width="120" alt="Profile Image" style="float: left; margin-right: 20px;" />
-</p>
-
-<br clear="left"/>
-
+<div align="center">
+  <div style="display: inline-block; overflow: hidden;">
+    <img src="https://orhun.dev/img/crow.png" width="120" alt="Profile Image" style="float: left; margin-right: 20px;" />
+    <img src="https://i.imgur.com/9E6A2ig.jpeg" width="120" alt="Suggested Image" style="float: right; margin-left: 20px;" />
+  </div>
+</div>
+<br clear="both"/>
 # 👋 About Me
 
 I'm Almiqdad Yahya — a Sudanese physicist and aspiring researcher with a deep passion for theoretical and particle physics.  
