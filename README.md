@@ -1,7 +1,8 @@
-<div style="display: flex; justify-content: center; gap: 40px; margin: 0 auto;">
-  <img src="https://orhun.dev/img/crow.png" width="120" alt="Profile Image" />
-  <img src="https://i.imgur.com/9E6A2ig.jpeg" width="120" alt="Suggested Image" />
-</div>
+<p align="center">
+  <img src="https://orhun.dev/img/crow.png" width="120" alt="Left Image" hspace="20"/>
+  <img src="https://i.imgur.com/9E6A2ig.jpeg" width="120" alt="Right Image" />
+</p>
+
 
 # 👋 About Me
 
