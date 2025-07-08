@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://orhun.dev/img/crow.png" width="120" alt="Left Image" hspace="20"/>
-  <img src="https://i.imgur.com/9E6A2ig.jpeg" width="120" alt="Right Image" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; margin: 0 auto;">
+  <img src="https://orhun.dev/img/crow.png" width="120" alt="Crow Profile" />
+  <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=120" width="120" alt="Suggested Tech Image" />
+</div>
 
 
 # 👋 About Me
