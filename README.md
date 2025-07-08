@@ -1,8 +1,15 @@
-<img align="left" src="https://orhun.dev/img/crow.png" width="120" alt="Profile Image">  
+<p align="center">
+  <img src="https://orhun.dev/img/crow.png" width="120" alt="Profile Image" style="float: left; margin-right: 20px;" />
+</p>
+
+<br clear="left"/>
 
 # 👋 About Me
 
-I am a passionate developer and researcher with a strong background in scientific computing, data analysis, and software engineering. Currently, I am working on an **N-Body Simulation** project, applying advanced numerical methods and Python to model complex physical systems.
+I'm Almiqdad Yahya — a Sudanese physicist and aspiring researcher with a deep passion for theoretical and particle physics.  
+After earning my BSc from the University of Khartoum, I pursue a Masters degree at Bolonga University in Italy. My work explores topics such as neutrino physics, beyond the Standard Model (BSM), and high-energy phenomena.  
+
+I’m also passionate about visual, interactive science communication — making complex ideas tangible through code and design.
 
 ## 🧠 Upcoming Projects
 
