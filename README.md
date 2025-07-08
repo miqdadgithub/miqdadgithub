@@ -8,8 +8,7 @@ I am a passionate developer and researcher with a strong background in scientifi
 
 - **N-Body Simulation**: High-performance simulation of gravitational systems using Python, NumPy, and C++. Visualized results with Matplotlib and interactive dashboards.
 - **Personal Portfolio Website**: Built with HTML, CSS, JavaScript, and GitHub Pages to showcase my work and research.
-- **Data Analysis Pipelines**: Automated data cleaning, analysis, and visualization using Pandas, SciPy, and Matplotlib for research and academic projects.
-- **Raspberry Pi Home Automation**: Developed IoT solutions for smart home monitoring and automation using Python and Linux.
+- **Yukawa Force Simulation**: Developed a Python-based simulation of the strong nuclear force using the Yukawa potential. Utilized Pygame for interactive visualization to demonstrate confinement and force behavior at varying distances.
 
 ## 🛠️ Skills
 
