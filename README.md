@@ -14,7 +14,7 @@ I’m also passionate about visual, interactive science communication — making
 ## 🧠 Upcoming Projects
 
 - **Neutrino Detector Prototype**: Designing and building a basic physical neutrino detector to explore detection principles and potentially test it in a low-background environment.  
-- **Amplitude Calculator**: Developing a Python tool to compute simple quantum field theory amplitudes, starting with scalar interactions and aiming to eventually include spinor and gauge fields.
+- **Amplitude Calculator**: Developing a tool to compute simple quantum field theory amplitudes, starting with scalar interactions and aiming to eventually include spinor and gauge fields.
 
 ## 🚀 Top Projects
 
