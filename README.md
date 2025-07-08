@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 40px; margin: 0 auto;">
   <img src="https://orhun.dev/img/crow.png" width="120" alt="Crow Profile" />
-  <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=120" width="120" alt="Suggested Tech Image" />
+
 </div>
 
 
