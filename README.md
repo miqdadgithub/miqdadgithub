@@ -19,7 +19,7 @@ I’m also passionate about visual, interactive science communication — making
 ## 🚀 Top Projects
 
 - **Yukawa Force Simulation**: Developed a Python-based simulation of the strong nuclear force using the Yukawa potential. Utilized Pygame for interactive visualization to demonstrate confinement and force behavior at varying distances.
-- **N-Body Simulation**: High-performance simulation of gravitational systems using Python, NumPy, and C++. Visualized results with Matplotlib and interactive dashboards.
+- **N-Body Simulation**: High-performance simulation of gravitational systems using Python. Visualized results with Pygame and interactive dashboards.
 - **Personal Portfolio Website**: Built with HTML, CSS, JavaScript, and GitHub Pages to showcase my work and research.
 
 ## 🛠️ Skills
