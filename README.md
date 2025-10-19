@@ -1,22 +1,25 @@
 <!--
-Almi’s README — minimal, elegant, interesting.
+Almi's README — minimal, elegant, interesting.
 Two equal-size GIFs in the top corners + curated icon row + emoji sections + clean stats.
 -->
 
-<!-- Top-corner GIFs (same size, elegant) -->
-<img align="left"
-     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2I5b3EyejB0cXVtOGNlNjVmdXIwa2s1cHZzejZ1eGgwY3U0Z3NoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbC8Uy0rEhdTtF6lVa/giphy.gif"
-     width="120" alt="Physics equations (left)" />
-<img align="right"
-     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajU1cmo1dHc1OHU2YXVwaXU2dGp3MnpwODF5bGJxYm9zajliM2d4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4lRdl315eruX7S6Y/giphy.gif"
-     width="120" alt="Thinking lines (right)" />
-
 <div align="center">
+  <!-- Top-corner GIFs (same size, elegant) -->
+  <img align="left"
+       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2I5b3EyejB0cXVtOGNlNjVmdXIwa2s1cHZzejZ1eGgwY3U0Z3NoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbC8Uy0rEhdTtF6lVa/giphy.gif"
+       width="120" alt="Physics equations (left)" />
+  <img align="right"
+       src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajU1cmo1dHc1OHU2YXVwaXU2dGp3MnpwODF5bGJxYm9zajliM2d4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4lRdl315eruX7S6Y/giphy.gif"
+       width="120" alt="Thinking lines (right)" />
+
   <h1>Almiqdad Yahya</h1>
   <samp>Graduate physics student — enthusiastic about building thoughtful projects.</samp>
 </div>
 
 <br clear="both"/>
+
+<!-- Horizontal line running between the two GIFs -->
+<hr/>
 
 <!-- Icons: LaTeX first, Linux last; accurate icons; consistent size -->
 <p align="center">
