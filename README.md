@@ -3,23 +3,29 @@ Almi's README — minimal, elegant, interesting.
 Two equal-size GIFs in the top corners + curated icon row + emoji sections + clean stats.
 -->
 
-<div align="center">
-  <!-- Top-corner GIFs (same size, elegant) -->
+<!-- Top-corner GIFs (same size, elegant) — SWAPPED SIDES, URLs UNCHANGED -->
+<div width="100%">
+  <!-- Crow now on the LEFT (same URL) -->
   <img align="left"
-       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2I5b3EyejB0cXVtOGNlNjVmdXIwa2s1cHZzejZ1eGgwY3U0Z3NoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbC8Uy0rEhdTtF6lVa/giphy.gif"
-       width="120" alt="Physics equations (left)" />
+       src="https://orhun.dev/img/crow.png"
+       width="120" alt="Crow Profile" />
+  <!-- Physics equations GIF now on the RIGHT (same URL) -->
   <img align="right"
-       src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajU1cmo1dHc1OHU2YXVwaXU2dGp3MnpwODF5bGJxYm9zajliM2d4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4lRdl315eruX7S6Y/giphy.gif"
-       width="120" alt="Thinking lines (right)" />
-
-  <h1>Almiqdad Yahya</h1>
-  <samp>Graduate physics student — enthusiastic about building thoughtful projects.</samp>
+       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2I5b3EyejB0cXVtOGNlNjVmdXIwa2s1cHZzejZ1eGgwY3U0Z3NoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbC8Uy0rEhdTtF6lVa/giphy.gif"
+       width="120" alt="Physics equations (right)" />
 </div>
 
 <br clear="both"/>
 
-<!-- Horizontal line running between the two GIFs -->
-<hr/>
+<div align="center">
+  <h1>Almiqdad Yahya</h1>
+  <samp>Graduate physics student — enthusiastic about building thoughtful projects.</samp>
+  
+  <!-- Short line that only spans between the GIFs -->
+  <div style="width: calc(100% - 280px); margin: 0 auto;">
+    <hr style="margin: 20px 0;"/>
+  </div>
+</div>
 
 <!-- Icons: LaTeX first, Linux last; accurate icons; consistent size -->
 <p align="center">
