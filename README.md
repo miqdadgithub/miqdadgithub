@@ -19,7 +19,7 @@ Two equal-size GIFs in the top corners + curated icon row + emoji sections + cle
 
 <div align="center">
   <h1>Almiqdad Yahya</h1>
-  <samp>Graduate physics student — enthusiastic about building thoughtful projects.</samp>
+  <samp>Graduate physics student — enthusiastic about building interesting projects.</samp>
   
   <!-- Short line that only spans between the GIFs -->
   <div style="width: calc(100% - 280px); margin: 0 auto;">
