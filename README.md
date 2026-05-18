@@ -1,7 +1,3 @@
-<!--
-Almi's README — minimal, elegant, interesting.
-Two equal-size GIFs in the top corners + curated icon row + emoji sections + clean stats.
--->
 
 <!-- Top-corner GIFs (same size, elegant) — SWAPPED SIDES, URLs UNCHANGED -->
 <div width="100%">
@@ -19,7 +15,7 @@ Two equal-size GIFs in the top corners + curated icon row + emoji sections + cle
 
 <div align="center">
   <h1>Almiqdad Yahya</h1>
-  <samp>Graduate physics student — enthusiastic about building interesting projects.</samp>
+  <samp>Building interesting projects.</samp>
   
   <!-- Short line that only spans between the GIFs -->
   <div style="width: calc(100% - 280px); margin: 0 auto;">
